@@ -1,3 +1,2 @@
 # Stock-Market-Predication-using-Machine-Learning
-**HDFC-Stock-price-predication-with-accuracy-99-**</br>
-In this project, I used a data about stock prices on the stock exchange for HDFC Bank and implemented machine learning algorithms to predict stock prices in the stock market. To make it easier, I made a GUI for the program
+Stock Market Price Prediction: Used machine learning algorithms such as Linear Regression, Logistics Regression, Naive Bayes, K Nearest Neighbor, Support Vector Machine, Decision Tree, and Random Forest to identify which algorithm gives better results. Used Neural Networks such as Auto ARIMA, Prophet(Time-Series), and LSTM(Long Term-Short Memory) then compare make Inferences about the model.
